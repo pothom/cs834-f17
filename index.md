@@ -7,7 +7,7 @@ Time: Thursdays 4:20pm - 7:00pm
 
 Place: Dragas, r. 1117 (with option to move rooms after the first class)
 
-[Syllabus]()
+[Syllabus](https://raw.githubusercontent.com/phonedude/cs834-f17/master/syllabus.txt)
 
 ### Recommended Books
 * [Search Engines: Information Retrieval in Practice](http://www.search-engines-book.com/) (Required [free PDF download from the authors](http://ciir.cs.umass.edu/irbook/))
