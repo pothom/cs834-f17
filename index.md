@@ -19,20 +19,20 @@ Place: Dragas, r. 1117 (with option to move rooms after the first class)
 
 ### Class Schedule (subject to change)
 * Week 1 - August 31 - Administrivia, Chapters 1, 2
-* Week 2 - September 7 - Chapter 3 (ppt)
+* Week 2 - September 7 - Chapter 3 
 * Week 3 - September 14 - Student Presentations 1
-* Week 4 - September 21 - Chapter 4 (ppt)
-* Week 5 - September 28 - Chapter 5 (ppt)
+* Week 4 - September 21 - Chapter 4 
+* Week 5 - September 28 - Chapter 5 
 * Week 6 - October 5 - Student Presentations 2
 * Week 7 - October 12 - (no class)
-* Week 8 - October 19 - Chapter 6 (ppt)
-* Week 9 - October 26 - Chapter 7 (ppt)
+* Week 8 - October 19 - Chapter 6 
+* Week 9 - October 26 - Chapter 7 
 * Week 10 - November 2 - Student Presentations 3
-* Week 11 - November 9 - Chapter 8 (ppt)
-* Week 12 - November 16 - Chapter 9 (ppt)
+* Week 11 - November 9 - Chapter 8 
+* Week 12 - November 16 - Chapter 9 
 * Week 13 - November 23 - (Thanksgiving -- no class)
 * Week 14 - November 30 - Student Presentations 4
-* Week 15 - December 7 - Chapter 10 (ppt)
+* Week 15 - December 7 - Chapter 10 
 * Week 16 - December 14 - Exam Week -- Student Presentations 5
 
 
