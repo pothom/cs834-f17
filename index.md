@@ -19,7 +19,7 @@ Place: Dragas, r. 1117 (with option to move rooms after the first class)
 
 ### Class Schedule (subject to change)
 * Week 1 - August 31 - [Administrivia](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/week1.ppt
-), Chapters [1](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/chap1.pptx), [2](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/chap2.pptx)
+), [LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1), Chapters [1](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/chap1.pptx), [2](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/chap2.pptx)
 * Week 2 - September 7 - Chapter 3 
 * Week 3 - September 14 - Student Presentations 1
 * Week 4 - September 21 - Chapter 4 
