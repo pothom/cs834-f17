@@ -18,7 +18,8 @@ Place: Dragas, r. 1117 (with option to move rooms after the first class)
 * [https://groups.google.com/group/cs834-f17](https://groups.google.com/group/cs834-f17)
 
 ### Class Schedule (subject to change)
-* Week 1 - August 31 - Administrivia, Chapters 1, 2
+* Week 1 - August 31 - [Administrivia](https://raw.githubusercontent.com/phonedude/cs834-f17/master/slides/week1.ppt
+), Chapters 1, 2
 * Week 2 - September 7 - Chapter 3 
 * Week 3 - September 14 - Student Presentations 1
 * Week 4 - September 21 - Chapter 4 
