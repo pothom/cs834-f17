@@ -38,7 +38,7 @@ Place: Dragas, r. 1117 (with option to move rooms after the first class)
 
 
 ### Assignments (subject to change)
-* Assignment 1: due 2017-09-21
+* Assignment 1: [due 2017-09-21](https://github.com/phonedude/cs834-f17/blob/master/assignments/a1.txt)
 * Assignment 2: due 2017-10-12
 * Assignment 3: due 2017-11-09
 * Assignment 4: due 2017-11-30
