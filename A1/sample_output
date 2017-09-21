@@ -1,0 +1,33 @@
+Files will be downloaded at /home/poll/Desktop/crawl
+URL to start crawling: http://www.cs.odu.edu/~mln/
+Maximum depth: 2
+Crawling  http://www.cs.odu.edu/~mln/  URL OK
+24 links for next depth
+Finished depth  1
+Crawling  http://www.cs.odu.edu/  URL OK
+Crawling  http://www.odu.edu  URL OK
+Crawling  http://www.cs.odu.edu/~mln/research/  URL OK
+Crawling  http://www.cs.odu.edu/~mln/pubs/  URL OK
+Crawling  http://www.cs.odu.edu/~mln/teaching/  URL OK
+Crawling  http://www.cs.odu.edu/~mln/service/  URL OK
+Crawling  http://www.cs.odu.edu/~mln/personal/  URL OK
+Crawling  http://www.larc.nasa.gov/  URL OK
+Crawling  http://sils.unc.edu/  URL OK
+Crawling  http://www.openarchives.org/pmh/  URL OK
+Crawling  http://www.openarchives.org/ore/  URL OK
+Crawling  http://www.mementoweb.org/guide/rfc/ID/  URL OK
+Crawling  http://www.openarchives.org/rs/toc  URL OK
+Crawling  http://ntrs.nasa.gov/  URL OK
+Crawling  http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0643784  URL OK
+Skipping  http://www.cs.odu.edu/~mln/cv.pdf
+Skipping  http://www.cs.odu.edu/~mln/nsf-cv-2014.pdf
+Crawling  http://www.cs.odu.edu/~mln/lineage.html  URL OK
+Crawling  http://www.cs.odu.edu/~mln/travel.html  URL OK
+Skipping  http://www.cs.odu.edu/~mln/mln-ad.pdf
+Crawling  https://storify.com/michaelnelson/coverage-of-ws-dl-members-and-research  URL OK
+Crawling  http://ws-dl.blogspot.com/  URL OK
+Crawling  http://twitter.com/phonedude_mln  URL OK
+Crawling  https://twitter.com/phonedude_mln  URL OK
+2973 links for next depth
+Finished depth  2
+Crawler finished, you can find the downloaded files at /home/poll/Desktop/crawl
