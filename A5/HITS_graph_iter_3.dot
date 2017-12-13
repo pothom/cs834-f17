@@ -1,0 +1,19 @@
+digraph g {
+graph [nodesep=1];
+a [xlabel="(0.23,0.15)"]
+c [xlabel="(0.00,0.46)"]
+b [xlabel="(0.31,0.00)"]
+e [xlabel="(0.00,0.19)"]
+d [xlabel="(0.46,0.00)"]
+g [xlabel="(0.00,0.00)"]
+f [xlabel="(0.00,0.19)"]
+a-> b;
+b;
+c-> a;
+c-> b;
+c-> d;
+d;
+e-> d;
+f-> d;
+g;
+}

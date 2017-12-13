@@ -1,0 +1,12 @@
+digraph g {
+graph [nodesep=1];
+a-> b;
+b;
+c-> a;
+c-> b;
+c-> d;
+d;
+e-> d;
+f-> d;
+g;
+}
